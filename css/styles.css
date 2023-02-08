@@ -330,7 +330,8 @@ img {
 }
 .modal-input {
   padding: 10px 0;
-  padding-left: 12px;
+  padding-left: 40px;
+
   padding-right: 5px;
 }
 .modal-input,
