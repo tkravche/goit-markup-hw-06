@@ -313,6 +313,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  text-align: left;
 }
 .modal-form-label:not(:first-of-type) {
   margin-top: 10px;
